@@ -4,9 +4,9 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sagadsalem-blue?logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/sagad-salem-829113133/)](https://www.linkedin.com/in/sagad-salem-829113133/)
 [![Facebook Badge](https://img.shields.io/badge/-sagadsalem-2b6cb0?logo=Facebook&logoColor=white&style=for-the-badge&link=https://www.facebook.com/sagad.salem/)](https://www.facebook.com/sagad.salem/)
-[![Gmail Badge](https://img.shields.io/badge/-sagadsalem-edf2f7?logo=Gmail&logoColor=red&style=for-the-badge&link=mailto:3su.dev@mail.com)](mailto:3su.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sagadsalem-f7fafc?logo=Gmail&logoColor=red&style=for-the-badge&link=mailto:3su.dev@mail.com)](mailto:3su.dev@gmail.com)
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-edf2f7?style=flat-square&logo=javascript)
 ![Go](https://img.shields.io/badge/-Go-edf2f7?style=flat-square&logo=go)
