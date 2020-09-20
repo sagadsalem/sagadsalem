@@ -32,4 +32,3 @@ Find out more about me & feel free to connect with me here:
 ![Jira](https://img.shields.io/badge/-jira-176de5?style=flat-square&logo=jira)
 ![CentOS](https://img.shields.io/badge/-Centos-8e2175?style=flat-square&logo=centos&logoColor=e8a223)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-d64614?style=flat-square&logo=ubuntu&logoColor=white)
-
