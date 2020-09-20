@@ -2,12 +2,8 @@
 
 Find out more about me & feel free to connect with me here:
 
-<br>
-
 [![Linkedin Badge](https://img.shields.io/badge/-sagadsalem-blue?logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/sagad-salem-829113133/](https://www.linkedin.com/in/sagad-salem-829113133/)
-
 [![Facebook Badge](https://img.shields.io/badge/-sagadsalem-blue?logo=Facebook&logoColor=white&style=for-the-badge&link=https://www.facebook.com/sagad.salem/)](https://www.facebook.com/sagad.salem/)
-
 [![Gmail Badge](https://img.shields.io/badge/-sagadsalem-edf2f7?logo=Gmail&logoColor=red&style=for-the-badge&link=mailto:3su.dev@mail.com)](mailto:3su.dev@gmail.com)
 
 ## ⚡ Technologies
