@@ -30,5 +30,6 @@ Find out more about me & feel free to connect with me here:
 ![GitLab](https://img.shields.io/badge/-GitLab-edf2f7?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0c56c9?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-jira-176de5?style=flat-square&logo=jira)
+![Jira](https://img.shields.io/badge/-Trello-0075b9?style=flat-square&logo=trello)
 ![CentOS](https://img.shields.io/badge/-Centos-8e2175?style=flat-square&logo=centos&logoColor=e8a223)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-d64614?style=flat-square&logo=ubuntu&logoColor=white)
