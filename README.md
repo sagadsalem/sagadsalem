@@ -35,3 +35,13 @@ Find out more about me & feel free to connect with me here:
 ![Trello](https://img.shields.io/badge/-Trello-0075b9?style=flat-square&logo=trello)
 ![CentOS](https://img.shields.io/badge/-Centos-8e2175?style=flat-square&logo=centos&logoColor=e8a223)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-d64614?style=flat-square&logo=ubuntu&logoColor=white)
+
+### 🌎 Experiences
+
+|       Company      |    Job Description   |   Start Date   |    End Date   |
+| ------------------ | -------------------- |  ------------- |  ------------ |
+|  Phoenix Creative  | Senior Web Developer |  February 2013 | January 2017  |
+| Beladi Media Group | Senior Web Developer |  February 2017 | February 2018 |
+|        HRiNS       | Senior Web Developer |  February 2018 |   April 2020  |
+|        Enjaz       | Senior Web Developer |    June 2020   |   June 2022   |
+|        QiCard      | Senior Web Developer |    June 2022   |   Present     |
