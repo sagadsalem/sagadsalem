@@ -45,3 +45,9 @@ Find out more about me & feel free to connect with me here:
 |        HRiNS       | Senior Web Developer |  February 2018 |   April 2020  |
 |        Enjaz       | Senior Web Developer |    June 2020   |   June 2022   |
 |        QiCard      | Senior Web Developer |    June 2022   |   Present     |
+
+<style>
+    table {
+        width: 100%;
+    }
+</style>
